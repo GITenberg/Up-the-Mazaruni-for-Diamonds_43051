@@ -1,0 +1,33 @@
+_repo: Up-the-Mazaruni-for-Diamonds_43051
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43051-h/images/cover.jpg
+creator:
+  author:
+    agent_name: La Varre, William
+    aliases:
+    - LaVarre, William Johanne
+    - Varre, William La
+    - LaVarre, W. J. (William Johanne)
+    birthdate: 1898
+    deathdate: 1991
+    gutenberg_agent_id: '42000'
+    url: http://www.gutenberg.org/2009/agents/42000
+description: ''
+gutenberg_issued: '2013-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43051'
+  lccn: '19015868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2351'
+- !lcsh 'Guyana -- Description and travel'
+- !lcsh 'Diamond mines and mining -- Guyana'
+- !lcsh 'Mazaruni River (Guyana)'
+title: Up the Mazaruni for Diamonds
+url: http://www.gutenberg.org/ebooks/43051
